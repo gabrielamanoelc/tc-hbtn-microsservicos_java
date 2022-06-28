@@ -1,0 +1,9 @@
+O Spring Boot é um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele 
+traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir o tempo gasto com as configurações iniciais. 
+Oferecer uma experiência de início de projeto rápida e direta; Apresentar uma visão opinativa e flexível sobre o modo como os projetos 
+Spring devem ser configurados; Fornecer requisitos não funcionais pré-configurados; Não prover geração de código e zerar a necessidade 
+de arquivos XML.
+se faz a insercao de novas dependecias pelo arquivo pom.xml ou pelo spring initializr
+IntelliJ IDEA
+SPRING INITIALIZR fornece uma interface web bem simples para o usuário. Podendo gerar seu projeto a partir de uma estrutura de configurações pré-moldadas. São configurações de versões do java/spring boot, grupo/nome do projeto, série de lista de dependências e etc.
+
